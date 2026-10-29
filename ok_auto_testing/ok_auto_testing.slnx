@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Caculator/Caculator.csproj" />
+  <Project Path="Test1/Test1.csproj" />
+</Solution>
